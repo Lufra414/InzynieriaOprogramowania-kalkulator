@@ -1,15 +1,10 @@
-
-
-
-
-master
 def hello(name):
 return "Hello" + str(name)
 
 print (dodaj(pierwsza, druga))
 
 def odejmij(a,b):
-	return a-b 
+	return float(a) - float(b) 
 
 def dodaj(a,b)
 	wynik = float(a) + float(b)
